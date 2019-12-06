@@ -14,7 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/phoenix344/pbf-ts.git"
   },
-  "keywords": ["protobuf", "pbf", "typescript"],
+  "keywords": [
+    "protobuf",
+    "pbf",
+    "typescript"
+  ],
   "author": "phoenix344",
   "license": "MIT",
   "bugs": {
